@@ -8,7 +8,7 @@ This project was for Scrimba's Front-End Developer Career Path where we use Reac
 - Mapping Data
 
 ## Preview
-<img src="" width="50%" />
+<img src="https://github.com/thejoshyee/air-bnb-experiences-clone/blob/main/air-bnb-preview.png" width="50%" />
 
 
 Quick start:
